@@ -10,7 +10,12 @@ function App(): React.JSX.Element {
 }
 
 const styles = StyleSheet.create({
+ container: {
 
+ },
+ areaTempo: {
+
+ },
 });
 
 export default App;
