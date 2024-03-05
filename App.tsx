@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#2F4F4F'
+    backgroundColor: '#1C1C1C'
   },
   areaTempo: {
     marginTop: 40
@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
   btnTexto: {
     fontSize: 20,
     fontWeight: 'bold',
-   color: '#2F4F4F'
+   color: '#1C1C1C'
 
   },
   btnArea: {
